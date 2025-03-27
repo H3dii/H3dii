@@ -22,14 +22,4 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 </p>
-
-<h3 align="center">Contact</h3>
-<h2 align="center">
-  <a href="mailto:codecraft@otamoon.hu">codecraft@otamoon.hu</a>
-  |
-  <a href="mailto:devstudio@otamoon.hu">devstudio@otamoon.hu</a>
-</h2>
-<h2 align="center">
-  Phone: <a href="tel:+36702505347">+36 70 250 53 47</a>
-</h2>
 <p align="center">I’m happy to discuss your project in Hungarian!</p>
